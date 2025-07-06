@@ -51,7 +51,7 @@ This page itself :) Feel free to open issues and send pull requests via web
 interface.
 
 - [[https://codeberg.org/museoa/bqn-mode][Codeberg repo]]
-- [[https://codeberg.org/museoa/bqn-mode][GitHub mirror]]
+- [[https://github.com/museoa/bqn-mode][GitHub mirror]]
 
 * Acknowledgements
 
